@@ -5,7 +5,7 @@
 # over() - an over is cricket is 6 balls bowled by the batting team
 #
 # Write a subroutine called over() which 
-# Takes l parameter:
+# Takes 1 parameter:
 #      Parameter 1: the number of the over
 # Returns:
 #     The total number of runs scored
@@ -21,7 +21,9 @@
 
 
 def over (over_number) :
+  return 0
 
+over (1)
 
 # Task Two
 #
@@ -53,9 +55,9 @@ over (-1)
 # Define your function below
 
 def innings (team_name, novers) :
+  return 0
 
-
-
+innings ("WCGS", 1)
 
 # Task Four
 #
@@ -88,7 +90,9 @@ innings ("Wilsons", -1)
 # Define your function below
 
 def match () :
+  print ("Thanks for comming")
 
+match()
 
 # Task Six
 # Highlight three places in your match() routine where you do validation
@@ -99,3 +103,11 @@ def match () :
 # Hightlight other validations you have done on in your code
 # Validation 4:
 # Validation 5:
+
+#
+# Task Seven
+#
+# Add "try and except" handling to your over() routine to ensure that only integer values are added
+# Show below the values you used for testing exception handling
+#
+
