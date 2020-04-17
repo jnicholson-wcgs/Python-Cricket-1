@@ -1,9 +1,19 @@
 # Python-Cricket-1
-Initial routines and testing for the WCGS Cricket program
-The task implements the following routines:
-1) over() - collect the score for an over
-2) innings() - collect the scores for a set number of overs
-3) match () - run the scoring to a match between two teams
+Initial routines and testing for the WCGS Cricket program.
+
+Background
+----------
+
+The WCGS sports department need some assistance for the cricket season and require a program 
+to keep track of the scores for cricket match fixtures
+
+The Task
+--------
+
+The task requires you to implement the following routines:
+1) over() - subroutine to collect the score for an over
+2) innings() - subroutine to collect the scores for a set number of overs
+3) match () - procedure to run the scoring to a match between two teams
 
 All students should be able to implement all these rouintes correctly.
 Some students will have better testing and validation
