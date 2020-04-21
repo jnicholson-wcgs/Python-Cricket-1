@@ -20,3 +20,4 @@ Some students will have better testing and validation
 Some students will implement the "try and except" validation in the over() routine
 
 Check wikipeda for more information about cricket scoring: https://en.wikipedia.org/wiki/Run_(cricket)
+Here is a video with a quick summary of the rules of cricket: https://www.youtube.com/watch?v=wHEIT32ZEVs
